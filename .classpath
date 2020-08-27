@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/new Desktop data/capgemini works/Module-2/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/new Desktop data/capgemini works/Module-2/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="E:/new Desktop data/capgemini works/Module-2/ojdbc6-11.2.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/alm-distributedtask-client-15.105.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/alm-extensionmanagement-client-15.105.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/alm-gallery-client-15.105.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/alm-releasemanagement-client-15.105.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/alm-tfs-client-15.105.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/alm-vss-client-15.105.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/annotation-detector-3.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/applicationinsights-core-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/auth-common-0.6.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/auth-core-0.6.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/auth-providers-0.6.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/auth-secure-storage-0.6.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/com.microsoft.tfs.checkinpolicies.build.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/com.microsoft.tfs.checkinpolicies.checkforcomments.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/com.microsoft.tfs.checkinpolicies.forbiddenpatterns.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/com.microsoft.tfs.checkinpolicies.workitempolicy.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/com.microsoft.tfs.checkinpolicies.workitemquerypolicy.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/com.microsoft.tfs.client.clc.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/com.microsoft.tfs.client.clc.nl1.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/com.microsoft.tfs.client.common.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/com.microsoft.tfs.client.common.pid.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/com.microsoft.tfs.console.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/com.microsoft.tfs.core.httpclient.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/com.microsoft.tfs.core.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/com.microsoft.tfs.core.ws.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/com.microsoft.tfs.core.ws.runtime.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/com.microsoft.tfs.jni.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/com.microsoft.tfs.logging.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/com.microsoft.tfs.util.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/guava-12.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/hsqldb.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/jackson-annotations-2.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/jackson-core-2.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/jackson-databind-2.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/jna-4.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/jna-platform-4.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/oauth2-useragent-0.11.2.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/slf4j-api-1.7.19.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/Jar files/new jars/slf4j-log4j12-1.7.19.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

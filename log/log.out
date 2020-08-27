@@ -1,0 +1,29 @@
+2019-07-03 12:06:38 ERROR LoanMain:607 - com.cg.loan.exception.LoanApplicationException: [Please Enter A Valid 10 digit Mobile Number, Please Enter A Valid Email Id, Please Enter The Loan Program in 5 Letters, Please Enter A Valid Date Of Birth]
+2019-07-03 12:13:16 INFO  LoanMain:49 - user's choice
+2019-07-03 12:17:11 INFO  LoanMain:50 - user's choice
+2019-07-03 12:17:52 INFO  LoanMain:50 - user's choice
+2019-07-03 12:18:58 INFO  LoanMain:50 - user's choice
+2019-07-03 12:19:13 INFO  LoanMain:50 - user's choice
+2019-07-03 12:22:07 INFO  LoanMain:50 - user's choice
+2019-07-03 12:23:03 INFO  LoanMain:50 - user's choice
+2019-07-03 12:24:15 ERROR LoanMain:618 - [Please Enter A Valid 10 digit Mobile Number, Phone Number Should Be In Digits Only, Please Enter A Valid Email Id, Please Enter A Valid Date Of Birth]
+2019-07-03 12:24:15 INFO  LoanMain:108 - Printing the status
+2019-07-03 12:25:28 INFO  LoanMain:50 - user's choice
+2019-07-03 12:26:05 INFO  LoanMain:50 - user's choice
+2019-07-03 12:33:49 INFO  LoanMain:50 - user's choice
+2019-07-03 12:33:58 INFO  LoanDAOImpl:44 - Connection Establish : oracle.jdbc.driver.T4CConnection@ed17bee
+2019-07-03 12:33:58 INFO  LoanMain:81 - retrieving the programs
+2019-07-03 12:33:58 INFO  LoanMain:81 - retrieving the programs
+2019-07-03 12:33:58 INFO  LoanMain:81 - retrieving the programs
+2019-07-03 12:33:58 INFO  LoanMain:81 - retrieving the programs
+2019-07-03 12:34:19 INFO  LoanMain:50 - user's choice
+2019-07-03 12:35:58 INFO  LoanMain:50 - user's choice
+2019-07-03 12:37:40 INFO  LoanMain:50 - user's choice
+2019-07-03 12:39:34 ERROR LoanMain:620 - [Please Enter A Valid Email Id]
+2019-07-03 12:39:34 INFO  LoanMain:108 - Printing the status
+2019-07-03 12:45:07 INFO  LoanMain:47 - user's choice
+2019-07-03 12:53:11 INFO  LoanDAOImpl:44 - Connection Establish : oracle.jdbc.driver.T4CConnection@224aed64
+2019-07-03 12:54:44 INFO  LoanDAOImpl:44 - Connection Establish : oracle.jdbc.driver.T4CConnection@224aed64
+2019-07-03 13:18:49 INFO  LoanMain:45 - user's choice
+2020-08-23 16:29:42 INFO  LoanMain:45 - user's choice
+2020-08-25 13:01:51 INFO  LoanMain:45 - user's choice
